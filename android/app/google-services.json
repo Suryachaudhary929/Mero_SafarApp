@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507144399317",
+    "project_id": "mero-safar-f5c64",
+    "storage_bucket": "mero-safar-f5c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507144399317:android:aba33104906267e897755c",
+        "android_client_info": {
+          "package_name": "com.example.merosafarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4lYsL1cTFjCeBRrbTnrpJEM4hKbeV5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
